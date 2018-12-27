@@ -1,0 +1,146 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-device-width : 640px) {
+  .container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 0px;
+  }
+
+  .menu-principal ul {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .menu-principal ul li {
+    padding: 0px 10px;
+  }
+
+  .menu-principal a {
+    font-size: 12px;
+  }
+
+  .logos {
+    width: 30px;
+  }
+
+  .searchBar {
+    display: none;
+  }
+
+  .Home-Header {
+    width: 100%;
+    text-align: center;
+  }
+
+  .cont-header {
+    padding: 400px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .cont-header h1 {
+    font-size: 14px;
+    margin: 8px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: center;
+  }
+
+  .btn-decouvrir {
+    font-size: 14px;
+    width: 90px;
+    margin: 0 115px;
+  }
+
+  .elements {
+    width: 100%;
+    margin: 5px;
+
+  }
+
+  .desc-centre h2 {
+    font-size: 8px;
+  }
+
+.produits1{
+  display: flex;
+  flex-direction: column;
+}
+
+  .produits .elements h2 {
+    font-size: 12px;
+  }
+
+  .price {
+    font-size: 12px;
+  }
+
+  .img {
+    width: 90%;
+  }
+
+
+
+  .bas-element {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .hcolor {
+    font-size: 20px;
+    display: none;
+  }
+
+  .avantage .av {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .avG {
+    text-align: center;
+    padding: 30px;
+  }
+
+  .contenu-desc p {
+    font-size: 16px;
+  }
+
+  .enfant {
+    display: none;
+  }
+
+  .tnl {
+    font-size: 16px;
+  }
+
+  footer {
+    width: 100%
+  }
+
+  .partie {
+    width: 100%;
+  }
+
+  .footer-row {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .pfooter {
+    font-size: 12px;
+    padding: 20px 10px;
+    text-align: justify;
+    margin-right: 25px;
+  }
+
+  .arrow {
+    display: none;
+  }
+
+  .mention {
+    text-align: left;
+  }
